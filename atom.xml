@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hyper.fail</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hyper.fail/"/>
+  <updated>2017-12-14T14:27:36.458Z</updated>
+  <id>http://hyper.fail/</id>
+  
+  <author>
+    <name>Anton Koch</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog? Not a blog.</title>
+    <link href="http://hyper.fail/2017/12/14/Blog-Not-a-blog/"/>
+    <id>http://hyper.fail/2017/12/14/Blog-Not-a-blog/</id>
+    <published>2017-12-14T14:27:36.000Z</published>
+    <updated>2017-12-14T14:27:36.458Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
